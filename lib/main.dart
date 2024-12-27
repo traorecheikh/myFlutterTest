@@ -80,7 +80,7 @@ class Dashboard extends StatelessWidget{
               color: Colors.grey,
             ) ,
           ),
-          SizedBox(height: 30,),
+          SizedBox(height: 15,),
           Container(
             height: 300,
             child: ListView(
